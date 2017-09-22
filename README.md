@@ -7,5 +7,6 @@ File "Football.Functions.R" contains specialized functions to:
 It works with data from https://www.sports-reference.com/cfb/.
 
 All the .csv files were obtained from pages of https://www.sports-reference.com/cfb/. For example:
-- 
+- "All_QBs_2016.csv" was obtained from https://www.sports-reference.com/cfb/years/2016-passing.html
+- "All_RBs_2017.csv"  - from https://www.sports-reference.com/cfb/years/2017-rushing.html
 
